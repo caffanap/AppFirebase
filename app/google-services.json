@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "61510216080",
+    "firebase_url": "https://smkcoding-cfc98.firebaseio.com",
+    "project_id": "smkcoding-cfc98",
+    "storage_bucket": "smkcoding-cfc98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61510216080:android:d2e1f863c53f337e",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61510216080-gjo2us6q8shl5jf9310hvd1t8cguqhr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4N3hovDnXNy48L2S5ykCpi4CaXbmEFHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
